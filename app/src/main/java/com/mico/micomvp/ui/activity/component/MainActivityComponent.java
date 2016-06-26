@@ -1,7 +1,7 @@
 package com.mico.micomvp.ui.activity.component;
 
 import com.mico.micomvp.ui.activity.MainActivity;
-import com.mico.micomvp.ui.activity.ActivityScope;
+import com.mico.micomvp.ui.activity.scope.ActivityScope;
 import com.mico.micomvp.ui.activity.module.MainActivityModule;
 import com.mico.micomvp.ui.activity.presenter.MainActivityPresenter;
 

@@ -1,7 +1,7 @@
 package com.mico.micomvp.ui.activity.component;
 
 import com.mico.micomvp.data.ApiServiceModule;
-import com.mico.micomvp.ui.activity.PresenterScope;
+import com.mico.micomvp.ui.activity.scope.PresenterScope;
 import com.mico.micomvp.ui.activity.presenter.BasePresenter;
 
 import dagger.Component;

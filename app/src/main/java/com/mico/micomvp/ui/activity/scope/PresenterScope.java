@@ -1,4 +1,4 @@
-package com.mico.micomvp.ui.activity;
+package com.mico.micomvp.ui.activity.scope;
 
 import javax.inject.Scope;
 
@@ -6,5 +6,5 @@ import javax.inject.Scope;
  * Created by tangjie on 16/6/26.
  */
 @Scope
-public @interface ActivityScope {
+public @interface PresenterScope {
 }

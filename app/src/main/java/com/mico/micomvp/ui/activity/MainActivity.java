@@ -6,7 +6,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.mico.micomvp.R;
-import com.mico.micomvp.ui.activity.BaseActivity;
 import com.mico.micomvp.ui.activity.component.AppComponet;
 import com.mico.micomvp.ui.activity.component.DaggerMainActivityComponent;
 import com.mico.micomvp.ui.activity.module.MainActivityModule;

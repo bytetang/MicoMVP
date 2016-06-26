@@ -2,7 +2,7 @@ package com.mico.micomvp.ui.activity.module;
 
 import com.mico.micomvp.ui.activity.MainActivity;
 import com.mico.micomvp.model.User;
-import com.mico.micomvp.ui.activity.ActivityScope;
+import com.mico.micomvp.ui.activity.scope.ActivityScope;
 import com.mico.micomvp.ui.activity.presenter.MainActivityPresenter;
 
 import dagger.Module;
