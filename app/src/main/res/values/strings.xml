@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MicoMVP</string>
+    <string name="login_title">MicoMVP example</string>
+    <string name="login_button">登陆</string>
+</resources>
