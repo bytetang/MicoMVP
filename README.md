@@ -2,4 +2,4 @@
 
 Android MVP
 
-Retrofit2+dragger2+rxJava
+Retrofit2+dragger2+rxJava sample
